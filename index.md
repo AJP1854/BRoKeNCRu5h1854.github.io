@@ -4,7 +4,7 @@ This is my home page! My name is Aidan Perez and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/BRoKeNCRu5h1854.
+My GitHub page is http://github.com/AJP1854.
 
 ### CPSC 120
 
